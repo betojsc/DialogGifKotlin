@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DialogGifKotlin</string>
+    <string name="click_me">Click Me</string>
+
+    <string name="title">Granny eating chocolate dialog box</string>
+    <string name="message">This is a granny eating chocolate dialog box.
+        This library is used to help you easily create fancy gify dialog.</string>
+
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+</resources>
